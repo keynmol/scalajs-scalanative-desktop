@@ -1,5 +1,8 @@
 # Scala Native :heart: Scala.js :heart: webview
 
+![2022-06-17 11 32 36](https://user-images.githubusercontent.com/1052965/174283493-0af4f358-53a9-46bf-bfa5-734906489544.gif)
+
+
 This is a very small demonstrator of 
 
 1. Using [webview](https://github.com/webview/webview) library from Scala Native 
